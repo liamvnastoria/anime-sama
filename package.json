@@ -1,0 +1,25 @@
+{
+  "name": "anime-sama",
+  "version": "1.0.0",
+  "description": "The Anime-Sama Renew Interface Project",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamvnastoria/anime-sama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/liamvnastoria/anime-sama/issues"
+  },
+  "homepage": "https://github.com/liamvnastoria/anime-sama#readme"
+}
