@@ -16,11 +16,12 @@
     "format:check": "prettier --check .",
     "test": "vitest",
     "type-check": "tsc --noEmit",
-    "e2e": "cypress open",
+    "e2e": "cypress run",
     "e2e:open": "cypress open",
     "audit": "npm audit --audit-level=moderate",
     "lighthouse": "lhci autorun"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liamvnastoria/anime-sama.git"
