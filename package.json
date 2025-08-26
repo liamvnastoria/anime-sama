@@ -8,7 +8,18 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "test": "vitest",
+    "type-check": "tsc --noEmit",
+    "e2e": "cypress open",
+    "e2e:open": "cypress open",
+    "audit": "npm audit --audit-level=moderate",
+    "lighthouse": "lhci autorun"
   },
   "repository": {
     "type": "git",
