@@ -1,6 +1,6 @@
 # Pull Request
 
-Thank you for contributing to **Company Website**!  
+Thank you for contributing to **Anime Sama**!  
 Please fill out the following information to help us review your changes effectively.
 
 ---

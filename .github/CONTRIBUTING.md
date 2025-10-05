@@ -1,18 +1,18 @@
 ### 📄 `CONTRIBUTING.md`
 
-# Contributing to Company Website
+# Contributing to Anime Sama
 
-Thank you for your interest in contributing to **Company Website**!  
+Thank you for your interest in contributing to **Anime Sama**!  
 We welcome community contributions and feedback, while the project is also maintained and developed by [Sky Genesis Enterprise](https://skygenesisenterprise.com).
 
 ---
 
 ## 📦 About the Project
 
-**Company Website** is the official website of Sky Genesis Enterprise, licensed under **AGPLv3**, with both:
+**Anime Sama** is the official platform of Anime Sama, licensed under **AGPLv3**, with both:
 
 - A **free and self-hostable version** for the open-source community
-- A **commercial edition** with additional features and premium support maintained by Sky Genesis Enterprise
+- A **commercial edition** with additional features and premium support maintained by Liam Von Astoria
 
 We value collaboration and are happy to accept pull requests, bug reports, and feature suggestions from the community.
 
@@ -20,7 +20,7 @@ We value collaboration and are happy to accept pull requests, bug reports, and f
 
 ## 🧭 Code of Conduct
 
-We follow a [Code of Conduct](https://github.com/skygenesisenterprise/company-website/CODE_OF_CONDUCT.md) to ensure a safe, respectful, and inclusive environment.  
+We follow a [Code of Conduct](https://github.com/liamvnastoria/anime-sama/CODE_OF_CONDUCT.md) to ensure a safe, respectful, and inclusive environment.  
 Please make sure you read and respect it before contributing.
 
 ---
@@ -32,8 +32,8 @@ Please make sure you read and respect it before contributing.
 Use the GitHub UI to create a fork, then clone it locally:
 
 ```bash
-git clone https://github.com/skygenesisenterprise/company-website.git
-cd company-website
+git clone https://github.com/liamvnastoria/anime-sama.git
+cd anime-sama
 ```
 
 ### 2. Set Up Locally
@@ -41,8 +41,8 @@ cd company-website
 Install dependencies and run the development server (example for TypeScript/Node):
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 > See [README.md](./README.md) for platform-specific setup instructions.
@@ -108,7 +108,7 @@ Please note that **final decisions regarding project direction, architecture, an
 
 ## 📩 Questions or Suggestions?
 
-Open a [GitHub Discussion](https://github.com/skygenesisenterprise/company-website/discussions)
-Or reach out to us at [contact@skygenesisenterprise.com](mailto:contact@skygenesisenterprise.com)
+Open a [GitHub Discussion](https://github.com/liamvnastoria/anime-sama/discussions)
+Or reach out to us at [contact@hello@liamvonastoria.net](mailto:hello@liamvonastoria.net)
 
-Thank you for helping improve to the Company Website! 💌
+Thank you for helping improve to the Anime Sama Platform! 💌
